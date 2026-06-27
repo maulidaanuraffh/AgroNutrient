@@ -28,7 +28,7 @@
 
 const char* WIFI_SSID       = "NAMA_WIFI_KAMU";
 const char* WIFI_PASSWORD   = "PASSWORD_WIFI_KAMU";
-const char* APPS_SCRIPT_URL = "https://script.google.com/macros/s/XXXXXXX/exec";
+const char* APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxlhb9j4nRgBZwSQ8Ard6_-UTtttLHMErGjsQCDpPM35znoRUBZ4Q0FJ-wY871Dbips/exec";
 
 const long  GMT_OFFSET_SEC  = 7 * 3600;
 const int   DAYLIGHT_OFFSET = 0;
